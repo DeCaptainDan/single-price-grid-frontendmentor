@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/singlepricegridcomponent-using-semantic-html-and-css-B3OmOe_Yb)
+- Live Site URL: [live site URL](https://decaptaindan.github.io/single-price-grid-frontendmentor/)
 
 ## My process
 
