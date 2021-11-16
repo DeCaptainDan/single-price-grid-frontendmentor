@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design-desktop-preview from frontend mentor](./design/desktop-preview.jpg)
+![Design-desktop-preview from frontend mentor](./design/desktop-design.jpg)
 
 ![Design-mobile-preview from frontend mentor](./design/mobile-design.jpg)
 
